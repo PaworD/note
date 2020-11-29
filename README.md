@@ -8,7 +8,7 @@ GitCLone
 ```bash
 
 # Clone repository
-$ git clone https://github.com/PaworD/notee_.git
+$ git clone https://github.com/PaworD/note.git
 
 # Install Additional Dependencies for Client 
 $ git submodule add https://github.com/PaworD/notee_.git // run inside ./note
