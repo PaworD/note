@@ -3,7 +3,6 @@ Note Taker Application with Markdown Editor
 
 ### Installation | Установка
 
-GitCLone
 
 ```bash
 
@@ -22,8 +21,8 @@ $ npm install
 #Run server //run inside ./note/server
 $node app 
 
-#Run Client 
-$npm run serve //run inside ./note/notee_
+#Run Client //run inside ./note/notee_
+$npm run serve 
 
 ```
 
