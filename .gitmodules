@@ -1,3 +1,4 @@
-[submodule "client"]
-	path = client
+
+[submodule "front"]
+	path = front
 	url = https://github.com/PaworD/notee_.git
